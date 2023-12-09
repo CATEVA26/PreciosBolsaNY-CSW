@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <button>I'm a button</button>
       </header>
     </div>
   );
