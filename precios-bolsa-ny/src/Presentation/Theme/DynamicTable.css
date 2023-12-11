@@ -1,0 +1,14 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 4px;
+  }
+  .table-title{
+    background-color: #008d5e;
+    color: #ffffff;
+  }
